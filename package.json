@@ -20,7 +20,10 @@
     "native",
     "twitter",
     "login",
-    "button"
+    "button",
+    "react-component",
+    "react-native",
+    "ios"
   ],
   "author": "Yosi Taguri <yosi@taguri.com> (https://yallo.com)",
   "license": "ISC",
