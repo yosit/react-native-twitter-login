@@ -1,0 +1,32 @@
+{
+  "name": "react-native-twitter-login",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.3.1"
+  },
+  "description": "A sample on how to embed the Native Twitter Login Button in a react native application",
+  "main": "TWTRLogInButtonIOS.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosit/react-native-twitter-login.git"
+  },
+  "keywords": [
+    "react",
+    "reactnative",
+    "native",
+    "twitter",
+    "login",
+    "button"
+  ],
+  "author": "Yosi Taguri <yosi@taguri.com> (https://yallo.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosit/react-native-twitter-login/issues"
+  },
+  "homepage": "https://github.com/yosit/react-native-twitter-login"
+}
